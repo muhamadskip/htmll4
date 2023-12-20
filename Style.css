@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Conteyner{
+    display: flex;
+    justify-content: space-between;
+}
+.Conteyner div{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 2px solid red;
+
+}
